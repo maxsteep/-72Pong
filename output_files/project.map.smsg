@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at drawNet.v(13): always construct contains both blocking and non-blocking assignments File: C:/Users/maxstep/Desktop/ece342 project/ECE241-20220403T164348Z-001/ECE241/pingpong/drawNet.v Line: 13

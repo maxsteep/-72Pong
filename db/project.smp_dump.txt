@@ -1,0 +1,25 @@
+
+State Machine - |project|drawLogic:plotter|current_state
+Name current_state.S_WAITFC current_state.S_PLOTBALLB current_state.S_PLOTBALLW current_state.S_PADDLECOLL current_state.S_SECOLL current_state.S_SOLVEBALL current_state.S_IBS current_state.S_PLOTWHITERIGHT current_state.S_PLOTWHITELEFT current_state.S_SOLVERIGHT current_state.S_SOLVELEFT current_state.S_PLOTBLACKRIGHT current_state.S_PLOTBLACKLEFT current_state.S_GAMESTART current_state.S_BLACK 
+current_state.S_BLACK 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.S_GAMESTART 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.S_PLOTBLACKLEFT 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+current_state.S_PLOTBLACKRIGHT 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+current_state.S_SOLVELEFT 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+current_state.S_SOLVERIGHT 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+current_state.S_PLOTWHITELEFT 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+current_state.S_PLOTWHITERIGHT 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+current_state.S_IBS 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+current_state.S_SOLVEBALL 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+current_state.S_SECOLL 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+current_state.S_PADDLECOLL 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_PLOTBALLW 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_PLOTBALLB 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.S_WAITFC 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |project|drawLogic:plotter|IBS:ballInit|tempDir
+Name tempDir.011 tempDir.010 tempDir.001 tempDir.100 
+tempDir.001 0 0 0 0 
+tempDir.010 0 1 1 0 
+tempDir.011 1 0 1 0 
+tempDir.100 0 0 1 1 
