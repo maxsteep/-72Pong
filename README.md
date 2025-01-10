@@ -26,12 +26,12 @@ This project stands out from typical Pong implementations in several ways:
 ## Block Diagram
 
 The image below shows the block diagram of the architecture of this project.
-![Block Diagram](<Insert your image link here>)
+![Block Diagram](Assets/project.png)
 
 ## RTL Diagram
 
 The image below shows the RTL diagram of the architecture of this project.
-![Block Diagram](<Insert your image link here>)
+![Block Diagram](Assets/RTL.png)
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ Possible future enhancements include:
 ## FSM Diagram
 
 The image below shows the FSM diagram of the architecture of this project.
-![Block Diagram](<Insert your image link here>)
+![Block Diagram](Assets/FSM.jpg)
 
 ## Acknowledgments
 
