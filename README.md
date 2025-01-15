@@ -1,6 +1,6 @@
 # '72Pong: A Transistor-Level Recreation of Atari's Classic
 
-This project is a faithful, transistor-level recreation of Atari's Pong (1972), the first commercially successful video game, implemented on a DE1-SoC FPGA board. This is a clean-room design, developed solely based on observations of the original game's behavior and publicly available information, without access to Atari's original schematics, all the functionality and score tracking of the original product present.
+This project is a faithful, digital logic-level recreation of Atari's Pong (1972), the first commercially successful video game, implemented on a DE1-SoC FPGA board. This is a clean-room design, developed solely based on observations of the original game's behavior and publicly available information, without access to Atari's original schematics, all the functionality and score tracking of the original product present.
 
 ## Project Overview
 
